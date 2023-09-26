@@ -4,3 +4,6 @@ pandas
 scikit_learn
 plotly
 gunicorn
+dash_bootstrap_components
+os
+scipy
