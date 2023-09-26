@@ -6,4 +6,4 @@ Anoushka Bhatia, Xi Chen, Jai Gollapudi, Jingyi Gong, Krishi Patel, Shreya Thalv
 
 Spring 2023, Northeastern University, Prof. John Rachlin
 
-To run the program, click run on main.py.
+To run the program, click run on app.py.

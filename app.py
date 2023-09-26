@@ -2,7 +2,7 @@
 Anoushka Bhatia, Xi Chen, Jai Gollapudi, Jingyi Gong, Krishi Patel, Shreya Thalvayapati
 DS3500 Final Project: Fitbit Insights Dashboard
 4/19/2023
-main.py: All callback functions
+app.py: All callback functions
 Github repo: https://github.com/jingyig16/healthdashboard
 """
 
